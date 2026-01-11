@@ -1,6 +1,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <time.h>
+#include <cmath>
 
 int main() {
 
